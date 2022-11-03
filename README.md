@@ -25,9 +25,7 @@ trochę tekstu
 |       |       |       |   xxx|       |
 
 
-Moja ulubiona strona to [Stepik](https://stepik.org/)\
-
-Ciekawe kiedy yyml zadziala
+Moja ulubiona strona to [Stepik](https://stepik.org/)
 
 
 ![pszczółka](bee.webp)
